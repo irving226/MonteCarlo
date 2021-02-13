@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonteCarlo": {
+      "commandName": "Project",
+      "commandLineArgs": "1000 Hello World 3.1313"
+    }
+  }
+}

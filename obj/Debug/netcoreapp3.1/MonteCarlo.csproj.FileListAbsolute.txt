@@ -1,0 +1,13 @@
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.csprojAssemblyReference.cache
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.AssemblyInfoInputs.cache
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.AssemblyInfo.cs
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.csproj.CoreCompileInputs.cache
+F:\Stuff From SSD\source\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.exe
+F:\Stuff From SSD\source\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.deps.json
+F:\Stuff From SSD\source\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.runtimeconfig.json
+F:\Stuff From SSD\source\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.runtimeconfig.dev.json
+F:\Stuff From SSD\source\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.dll
+F:\Stuff From SSD\source\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.pdb
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.dll
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.pdb
+F:\Stuff From SSD\source\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.genruntimeconfig.cache
